@@ -38,7 +38,7 @@ This is a simple web scraper that downloads and saves resources (CSS, JavaScript
 
 2. Run the script:
    ```bash
-   python scrape_page.py
+   python webscrap.py
    ```
 
 3. The scraped resources will be saved in a folder named `scraped_data` in the same directory as the script.
