@@ -51,7 +51,7 @@ def scrape_page(url):
         file.write(soup.prettify())
 
 # URL of the webpage to scrape
-url = "https://www.lovefrom.com/"
+url = "https://www.banele.com/"
 
 # Scrape the page
 scrape_page(url)
